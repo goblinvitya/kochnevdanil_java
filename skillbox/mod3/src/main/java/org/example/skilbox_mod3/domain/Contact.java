@@ -1,4 +1,4 @@
-package org.example.skilbox_mod3.domain;
+package org.example.mod3.domain;
 
 import lombok.*;
 import lombok.experimental.FieldDefaults;
