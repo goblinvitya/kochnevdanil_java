@@ -1,7 +1,7 @@
 package org.example.skilbox_mod3.repository;
 
 import lombok.RequiredArgsConstructor;
-import org.example.skilbox_mod3.domain.Contact;
+import org.example.mod3.domain.Contact;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
