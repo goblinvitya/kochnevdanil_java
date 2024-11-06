@@ -3,9 +3,9 @@ package org.example.skilbox_mod3.service;
 import lombok.AccessLevel;
 import lombok.RequiredArgsConstructor;
 import lombok.experimental.FieldDefaults;
-import org.example.skilbox_mod3.ContactDTO;
-import org.example.skilbox_mod3.domain.Contact;
-import org.example.skilbox_mod3.repository.ContactRepository;
+import org.example.mod3.ContactDTO;
+import org.example.mod3.domain.Contact;
+import org.example.mod3.repository.ContactRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
