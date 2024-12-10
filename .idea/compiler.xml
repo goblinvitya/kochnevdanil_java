@@ -6,10 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="skillbox_mod6_order-service" />
         <module name="mod2" />
+        <module name="skillbox_mod7" />
         <module name="skillbox_mod5" />
         <module name="skillbox.mod1" />
         <module name="skillbox_mod4" />
+        <module name="skillbox_mod6_order-status-service" />
         <module name="skillbox_mod2" />
         <module name="mod1" />
         <module name="skilbox_mod3" />
@@ -28,6 +31,9 @@
       <module name="skillbox_mod3" options="-parameters" />
       <module name="skillbox_mod4" options="-parameters" />
       <module name="skillbox_mod5" options="-parameters" />
+      <module name="skillbox_mod6_order-service" options="-parameters" />
+      <module name="skillbox_mod6_order-status-service" options="-parameters" />
+      <module name="skillbox_mod7" options="-parameters" />
     </option>
   </component>
 </project>
