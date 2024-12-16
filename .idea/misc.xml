@@ -17,6 +17,8 @@
         <option value="$PROJECT_DIR$/skillbox.mod6_order-service/pom.xml" />
         <option value="$PROJECT_DIR$/skillbox.mod6_order-status-service/pom.xml" />
         <option value="$PROJECT_DIR$/skillbox.mod7/pom.xml" />
+        <option value="$PROJECT_DIR$/skillbox.mod8_news/pom.xml" />
+        <option value="$PROJECT_DIR$/skillbox.mod8_task_traker/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
