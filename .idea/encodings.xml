@@ -15,5 +15,7 @@
     <file url="file://$PROJECT_DIR$/skillbox.mod6_order-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/skillbox.mod6_order-status-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/skillbox.mod7/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skillbox.mod8_news/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skillbox.mod8_task_traker/src/main/java" charset="UTF-8" />
   </component>
 </project>
